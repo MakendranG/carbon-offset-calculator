@@ -26,7 +26,7 @@ The Carbon Offset Calculator allows users to calculate their carbon footprint ba
 ## Usage
 Run the calculator:
 ```bash
-python carbon_calculator.py
+python3 carbon_calculator.py
 ```
 
 Follow the prompts to enter your energy usage and travel data. The calculator will display your total carbon footprint and provide recommendations for offsetting your emissions.
